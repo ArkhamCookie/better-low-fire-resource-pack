@@ -8,6 +8,12 @@ fire on the ground is unchanged.
 
 ![an example of what being on fire looks like in first person](./docs/gallary/lowfire.gif)
 
+## Packaging
+
+```shell
+zip -r low-fire-hud.zip assets/ LICENSE pack.mcmeta pack.png
+```
+
 ## Attributions
 
 The textures for the fire was created by [gitq](https://modrinth.com/user/gitq) and is licensed under the MIT license.
