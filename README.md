@@ -4,6 +4,10 @@ A simple Minecraft resource pack that changes fire to be lower only on your HUD.
 The difference between this pack and most is that it **only** affects the HUD;
 fire on the ground is unchanged.
 
+## Gallary
+
+![an example of what being on fire looks like in first person](./docs/gallary/lowfire.gif)
+
 ## Attributions
 
 The textures for the fire was created by [gitq](https://modrinth.com/user/gitq) and is licensed under the MIT license.
