@@ -1,6 +1,6 @@
 # Low on Fire HUD
 
-A simple Minecraft resource pack that changes fire to be lower your HUD.
+A simple Minecraft resource pack that changes fire to be lower only on your HUD.
 The difference between this pack and most is that it **only** affects the HUD;
 fire on the ground is unchanged.
 
